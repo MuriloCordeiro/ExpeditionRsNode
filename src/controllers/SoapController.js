@@ -3,8 +3,13 @@ const xmlParser = require("xml2json");
 
 const soapRequest = require("easy-soap-request");
 
+//Development enviroment
 const url =
   "http://rscwbtst:49229/g5-senior-services/sapiens_Synccom_senior_g5_co_mcm_ven_pedidos?wsdl";
+
+//Production enviroment
+// const url =
+// "http://rscwbsrv:60405/g5-senior-services/sapiens_Synccom_senior_g5_co_mcm_ven_pedidos?wsdl";
 
 const sampleHeaders = {
   "user-agent": "sampleTest",

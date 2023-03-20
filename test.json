@@ -1,0 +1,533 @@
+{
+  "xmlns:S": "http://schemas.xmlsoap.org/soap/envelope/",
+  "S:Body": {
+    "ns2:obterItensPedido_customResponse": {
+      "xmlns:ns2": "http://services.senior.com.br",
+      "result": {
+        "erroExecucao": {
+          "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+          "xsi:nil": "true"
+        },
+        "itemPedido": [
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0104204",
+            "descricao": "PNEU 215/75R17,5 16PR TL 135/133L D905 (ROD. BORR) BENCHMARK (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "20.0",
+            "sequenciaItem": "299",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0104131",
+            "descricao": "PNEU 25X10.00-11 6PR TL W207 BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "1.0",
+            "sequenciaItem": "320",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "6959956728176",
+            "codigoProduto": "0102822",
+            "descricao": "PNEU 31X10.50R15LT 6PR TL 109S BRUTUS T/A XBRI (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "1.0",
+            "sequenciaItem": "321",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "6949402106917",
+            "codigoProduto": "0103363",
+            "descricao": "PNEU 215/75R17,5 16PR TL 135/133L BD175 (ROD. BORR.) (BL) (ID)",
+            "endereco": "7E-01|",
+            "endereco2": "|4E-04",
+            "quantidade": "100.0",
+            "sequenciaItem": "345",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0103347",
+            "descricao": "PNEU 520/85R38 TL 155A8/B AGRIMAX RT855 BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "3.0",
+            "sequenciaItem": "356",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0103824",
+            "descricao": "PNEU 620/70R42 TL 166D AGRIMAX RT765 BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "3.0",
+            "sequenciaItem": "357",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0103013",
+            "descricao": "PNEU 7.50-16LT 14PR TT 122/118K CR852 (LISO) (GR) (ID)",
+            "endereco": "7D-11|",
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "50.0",
+            "sequenciaItem": "358",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0203456",
+            "descricao": "CAMARA DE AR 20.8R38 TR218A  RS (PD) (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "18.0",
+            "sequenciaItem": "365",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0203445",
+            "descricao": "CAMARA DE AR 24.5R32 TR218A RS (PD) (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "8.0",
+            "sequenciaItem": "366",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0203267",
+            "descricao": "CAMARA DE AR 710/70R42 TR218A RS (PF) (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "6.0",
+            "sequenciaItem": "367",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0203490",
+            "descricao": "CAMARA DE AR 8.15-15 (28X9-15) TR75A RS (PD) (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "64.0",
+            "sequenciaItem": "368",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0101544",
+            "descricao": "PNEU 10.5/80-18 10PR TL AS504 R1 BKT (EN)",
+            "endereco": "1.66.1|",
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "4.0",
+            "sequenciaItem": "369",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0103705",
+            "descricao": "PNEU 14-17,5 14PR TL SKID POWER HD BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "2.0",
+            "sequenciaItem": "370",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0103705",
+            "descricao": "PNEU 14-17,5 14PR TL SKID POWER HD BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "1.0",
+            "sequenciaItem": "371",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "6938628282222",
+            "codigoProduto": "0103105",
+            "descricao": "PNEU 155R12C 8PR TL 88/86S CITYMAX XBRI (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "8.0",
+            "sequenciaItem": "373",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "8903094019069",
+            "codigoProduto": "0103620",
+            "descricao": "PNEU 16.0/70-20 14PR TL AS504 R1 BKT (ID)",
+            "endereco": "5E-09|",
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "2.0",
+            "sequenciaItem": "374",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "8903094003785",
+            "codigoProduto": "0101545",
+            "descricao": "PNEU 18.4-30 12PR TT TR135 R1 BKT (EN)",
+            "endereco": "2E-18|",
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "2.0",
+            "sequenciaItem": "375",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "6959956718351",
+            "codigoProduto": "0103719",
+            "descricao": "PNEU 185/35R17 TL 82V GREEN-MAX (LL) (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "15.0",
+            "sequenciaItem": "376",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0104205",
+            "descricao": "PNEU 215/75R17,5 16PR TL 135/133J LLF86 (ROD. LISO) BENCHMARK (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "78.0",
+            "sequenciaItem": "378",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0103333",
+            "descricao": "PNEU 400/55-22,5 16PR TL FLOT558 BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "5.0",
+            "sequenciaItem": "380",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0103333",
+            "descricao": "PNEU 400/55-22,5 16PR TL FLOT558 BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "3.0",
+            "sequenciaItem": "381",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "6959956728206",
+            "codigoProduto": "0102884",
+            "descricao": "PNEU LT245/70R16 8PR TL 113/110S BRUTUS T/A XBRI (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "27.0",
+            "sequenciaItem": "383",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "6949402107693",
+            "codigoProduto": "0103567",
+            "descricao": "PNEU 295/80R22,5 18PR TL 152/149M BD175 (ROD. BORR.) (BL) (ID)",
+            "endereco": "2E-08|",
+            "endereco2": "|6E-06",
+            "quantidade": "70.0",
+            "sequenciaItem": "385",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0201615",
+            "descricao": "CAMARA DE AR 295/80R22,5 HD TR462C RS (LIQUIDA RS) (CO)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "25.0",
+            "sequenciaItem": "386",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0203454",
+            "descricao": "CAMARA DE AR 16/70R20 V3-06-5 RS (PD) (LIQUIDA RS) (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "10.0",
+            "sequenciaItem": "388",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0203455",
+            "descricao": "CAMARA DE AR 18.4R38 TR218A RS (PD) (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "4.0",
+            "sequenciaItem": "389",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0103619",
+            "descricao": "PNEU 15.5-38 12PR TT TR135 R1 BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "8.0",
+            "sequenciaItem": "392",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0103330",
+            "descricao": "PNEU 18.4-38 12PR TT TR135 R1 BKT (ID)",
+            "endereco": "3D-12|",
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "12.0",
+            "sequenciaItem": "394",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "8903094006274",
+            "codigoProduto": "0103875",
+            "descricao": "PNEU 500/45-22,5 16PR TL FLOT558 BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "8.0",
+            "sequenciaItem": "395",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "",
+            "codigoProduto": "0103617",
+            "descricao": "PNEU 600/65R28 TL 154D/157A8 AGRIMAX RT657 BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "12.0",
+            "sequenciaItem": "399",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "8903094019328",
+            "codigoProduto": "0103358",
+            "descricao": "PNEU 7.50-16 8PR TT AS504 R1 BKT (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "20.0",
+            "sequenciaItem": "400",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "8056450240918",
+            "codigoProduto": "0104069",
+            "descricao": "PNEU 225/45R18 TL 95Y OUTRUN M3 MOMO (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "8.0",
+            "sequenciaItem": "401",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "6938628218412",
+            "codigoProduto": "0104094",
+            "descricao": "PNEU 265/65R17 TL 112H FORZA H/T 2 XBRI (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "26.0",
+            "sequenciaItem": "402",
+            "tipoPedido": "REDE"
+          },
+          {
+            "codigoBarras": "8056450240987",
+            "codigoProduto": "0103919",
+            "descricao": "PNEU 215/65R16 TL 102H OUTRUN M2 MOMO (ID)",
+            "endereco": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "endereco2": {
+              "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+              "xsi:nil": "true"
+            },
+            "quantidade": "2.0",
+            "sequenciaItem": "403",
+            "tipoPedido": "REDE"
+          }
+        ]
+      }
+    }
+  }
+}
