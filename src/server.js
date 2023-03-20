@@ -1,19 +1,18 @@
 require("dotenv").config();
-
+const xmlParser = require("xml2json");
 const express = require("express");
+const app = express();
 const routes = require("./routes");
 
-const app = express();
-
-app.use(express.json());
+// app.use(express.json());
 app.use(routes);
 
 const port = 3333;
 
 app.listen(port, () => {
-  console.log(`backend started at http://localhost:${port}`);
+  console.log(`backend ta rodando na porta ${port}`);
 });
 
-const connectToDataBase = require("./database");
+// const connectToDataBase = require("./database");
 
-connectToDataBase();
+// connectToDataBase();

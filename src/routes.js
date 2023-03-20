@@ -1,15 +1,15 @@
 const express = require("express");
-const routes = express.Router();
+const router = express.Router();
+const xmlParser = require("xml2json");
+const SoapController = require("./controllers/SoapController");
 
-const VideoController = require("./controllers/VideoController");
-
-// routes.get("/", (request, response) => response.send("Hello World"));
-
-routes.get("/videos", VideoController.index);
-routes.post("/videos", VideoController.store);
-
-routes.get("/", (res) => {
-  res.send("deu boa");
+router.get("/soap", async (req, res, next) => {
+  try {
+    const json = await SoapController.callSoap();
+    res.send(`Result: ${json}`);
+  } catch (error) {
+    next(error);
+  }
 });
 
-module.exports = routes;
+module.exports = router;
